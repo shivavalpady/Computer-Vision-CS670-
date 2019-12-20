@@ -9,4 +9,5 @@ As we know, lanes are continuous line structures on the road. The lanes that can
 
     Index terms - Convolutional Neural Networks, LSTM, lane detection, semantic segmentation.
 
+Dataset - https://github.com/TuSimple/tusimple-benchmark/issues/3
 PyTorch = 1.3.1
