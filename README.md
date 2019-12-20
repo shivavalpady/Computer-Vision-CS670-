@@ -8,3 +8,5 @@ Lane detection is an important feature for autonomous vehicles and advanced driv
 As we know, lanes are continuous line structures on the road. The lanes that cannot be predicted accurately in one current frame may potentially be inferred out by gathering information from previous frames. Hence, lane detection by using multiple frames of a continuous driving scene is proposed by using a hybrid deep architecture of combination of CNN and Recurrent Neural Network (RNN). The idea is to extract features of continuous images using CNNs and these features of multiple frames, holding the properties of time-series, are then fed into RNN block for feature learning and lane prediction. To increase the accuracy of the obtained model, smoothing techniques are implemented. TuSimple lane detection dataset is used for training and testing.
 
     Index terms - Convolutional Neural Networks, LSTM, lane detection, semantic segmentation.
+
+PyTorch = 1.3.1
