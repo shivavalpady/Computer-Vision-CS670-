@@ -1,4 +1,4 @@
-# Computer-Vision-CS670-
+# Computer Vision(CS670)
 Project Repository
 
 Abstract:
